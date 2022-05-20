@@ -9,6 +9,6 @@ public class TimeOG : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        timeValue -= Time
+        
     }
 }
